@@ -5,11 +5,11 @@ Industrial Internet of Things (IIoT) for Predictive Maintenance is a powerful ap
 
 <img width="1978" height="884" alt="image" src="https://github.com/user-attachments/assets/e5c6e04a-34c4-48ae-976f-41ae03c950d9" />
 
-The Methodology of the project “Industrial IoT for Predictive Maintenance” involves the following steps:
+METHODOLOGY
 * The Data of the Machine’s Working Status and Efficiency is collected by IoT Devices and Sensors connected to each of the machine in the industry. This can be acquired by the detection of vibration pattern of the machine.
-*Master Monitor Gateway serves as a centralized control point for monitoring and managing various sensors and devices across the industrial environment.
-*The Data collected is then stored in the Cloud Storage.
-*The Data is then transferred to Vertex AI where the Prediction is done using AI Networking Mechanism and thus it provides the information about which machine has the highest chances of getting failure and service has to be done.
-*The Predicted Data is Analyzed and Structured according to the details which has to be placed in output.
-*Finally, the output is displayed in a webpage in the form of Dashboard .
+* Master Monitor Gateway serves as a centralized control point for monitoring and managing various sensors and devices across the industrial environment.
+* The Data collected is then stored in the Cloud Storage.
+* The Data is then transferred to Vertex AI where the Prediction is done using AI Networking Mechanism and thus it provides the information about which machine has the highest chances of getting failure and service has to be done.
+* The Predicted Data is Analyzed and Structured according to the details which has to be placed in output.
+* Finally, the output is displayed in a webpage in the form of Dashboard .
 
