@@ -1,0 +1,2 @@
+# AI-based-Industrial-IoT-for-Predictive-Maintenance
+AI-based Industrial IoT for Predictive Maintenance is a system in which vibration patterns are detected in machines and are displayed with the number of vibrations and the intensity of vibrations in dashboard. This displayed data analyses its working efficiency and is transferred to Vertex AI to predict the chances of industrial machine failure.
