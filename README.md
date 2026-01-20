@@ -2,7 +2,9 @@
 AI-based Industrial IoT for Predictive Maintenance is a system in which vibration patterns are detected in machines and are displayed with the number of vibrations and the intensity of vibrations in dashboard. This displayed data analyses its working efficiency and is transferred to Vertex AI to predict the chances of industrial machine failure.
 
 Industrial Internet of Things (IIoT) for Predictive Maintenance is a powerful application that leverages data from connected industrial equipment to predict when maintenance is required before a failure occurs. This proactive approach helps organizations minimize downtime, reduce maintenance costs, and optimize overall operational efficiency. the proposed model of Industrial IoT for Predictive Maintenance is highly efficient when compared to existing model in terms of Speed, Memory Storage, Easy and Accurate Prediction of failed machine in the industry containing large number of machines. As industries strive for greater efficiency and reliability, the project of Industrial IoT for Predictive Maintenance is highly a demanded project for the society in the aspects of industrial purpose.
-Hardware Components: Vibration Sensor, IoT Device - ESP32
+
+Hardware Components: Vibration Sensor, IoT Device - ESP32.
+Software Components: Arduino, Google Cloud, Vertex AI.
 
 <img width="1978" height="884" alt="image" src="https://github.com/user-attachments/assets/e5c6e04a-34c4-48ae-976f-41ae03c950d9" />
 
